@@ -1,0 +1,11 @@
+<module>
+	<rawname>panel</rawname>
+	<name>Operator Panel Configuration</name>
+	<version>1.0</version>
+	<type>setup</type>
+	<category>Internal Options &amp; Configuration</category>
+	<description>Configure layout of the Operator Panel</description>
+	<menuitems>
+		<panel>Operator Panel Layout</panel>
+	</menuitems>
+</module>
