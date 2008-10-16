@@ -14,7 +14,7 @@ Some versions of retrieve_op_conf_from_mysql.pl will detect the existence of the
 Preconditions
 -------------
 
-This module requires support for the 'panel' database table in retrieve_op_conf_from_mysql.pl . Please see Ticket #2699 for details.
+This module requires support for the 'panel' database table in retrieve_op_conf_from_mysql.pl . Please see Ticket #2989 for details.
 
 Open Issues
 -----------
